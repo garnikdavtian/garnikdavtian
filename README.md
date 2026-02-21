@@ -4,17 +4,21 @@
 
 **AI/ML Engineer | Data Scientist**
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:garnikdavtyan653@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garnik-davtyan/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/garnikdavtyan)
+<a href="mailto:garnikdavtyan653@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/garnik-davtyan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.kaggle.com/garnikdavtyan">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 
-
+</div>
 <br>
 
  - **Currently working on:** The [WiDS Datathon 2026](https://www.kaggle.com/competitions/WiDSWorldWide_GlobalDathon26/leaderboard) on Kaggle (Currently ranked in the **Top 10**!)  
 - **Looking to collaborate:** I am actively looking for teammates to collaborate with on the WiDS Datathon. If you're interested in teaming up, let's connect!
-
-</div>
 
 ---
 
