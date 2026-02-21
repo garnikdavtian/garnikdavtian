@@ -17,7 +17,7 @@
 </div>
 <br>
 
- - **Currently working on:** The [WiDS Datathon 2026](https://www.kaggle.com/competitions/WiDSWorldWide_GlobalDathon26/leaderboard) on Kaggle (Currently ranked in the **Top 10**!)  
+- **Currently working on:** The [WiDS Datathon 2026](https://www.kaggle.com/competitions/WiDSWorldWide_GlobalDathon26/leaderboard) on Kaggle (Currently ranked in the **Top 10**!)  
 - **Looking to collaborate:** I am actively looking for teammates to collaborate with on the WiDS Datathon. If you're interested in teaming up, let's connect!
 
 ---
@@ -50,8 +50,12 @@
   * Weighted blending of Ridge, Lasso, ElasticNet, KRR, GBR, XGBoost, and LightGBM models.
   * Achieved a highly competitive RMSLE score through rigorous EDA and cross-validation strategies.
 
+---
 
 <div align="center">
-  <i>Always open to discussing machine learning, collaborating on AI projects, or tackling new Kaggle competitions!</i><br>
-  📫 <b>Reach out to me via email or LinkedIn.</b>
+  <i>Always open to discussing machine learning, collaborating on AI projects, or tackling new Kaggle competitions!</i><br><br>
+  <b>Let's Connect:</b><br>
+  <b>Email:</b> <a href="mailto:garnikdavtyan653@gmail.com">garnikdavtyan653@gmail.com</a><br>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/garnik-davtyan/">https://www.linkedin.com/in/garnik-davtyan/</a><br>
+  <b>Kaggle:</b> <a href="https://www.kaggle.com/garnikdavtyan">https://www.kaggle.com/garnikdavtyan</a>
 </div>
