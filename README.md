@@ -4,7 +4,7 @@
 
 **AI/ML Engineer | Data Scientist**
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:garnikdavtyan653@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:garnikdavtyan653@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garnik-davtyan/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/garnikdavtyan)
 
