@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garnik-davtyan/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/garnikdavtyan)
 
-</div>
 
 <br>
 
