@@ -24,7 +24,7 @@
 ### [March Machine Learning Mania 2026](https://github.com/garnikdavtian/match_mania_2026)
 **Silver Medal (29th Place) — Top 0.8% on Kaggle**
 * **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Machine Learning Ensembles.
-* **Highlights:** * Secured a Silver Medal out of thousands of participants by achieving an elite final Brier Score of 0.1208.
+* **Highlights:** Secured a Silver Medal out of thousands of participants by achieving an elite final Brier Score of 0.1208.
   * Predicted highly calibrated probabilities for every hypothetical matchup in both the Men's and Women's NCAA collegiate basketball tournaments.
   * Effectively minimized Brier penalties during high-variance upsets and accurately forecasted championship outcomes by optimizing model risk-assessment.
 
